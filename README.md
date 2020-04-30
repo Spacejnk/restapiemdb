@@ -3,3 +3,4 @@
 *  nodejs
 *  express
 *  mongodb
+*  body-parser
