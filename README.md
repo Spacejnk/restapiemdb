@@ -4,3 +4,4 @@
 *  express
 *  mongodb
 *  body-parser
+* cors
