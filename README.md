@@ -1,10 +1,12 @@
 ### restapiemdb
 > Technologies used
-*  nodejs
+
+*  body-parser
+*  cors
+*  .env
 *  express
 *  mongodb
-*  body-parser
-* cors
+*  nodejs
 
 ![alt text](images/postman.png)
 
