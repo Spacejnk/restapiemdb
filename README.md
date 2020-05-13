@@ -3,7 +3,7 @@
 
 *  body-parser
 *  cors
-*  .env
+*  dotenv
 *  express
 *  mongodb
 *  nodejs
